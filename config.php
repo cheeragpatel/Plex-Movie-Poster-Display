@@ -15,6 +15,6 @@ $customImage = '';
 
 //Misc
 $comingSoonTopText = 'PLAYING SOON';
-$comingSoonBottomText = 'at the JEscHT Plex Home Cinema';
+$comingSoonBottomText = 'at the Chiguflix Home Cinema';
 $nowShowingTopText = 'FEATURE PLAYING NOW';
 ?>
